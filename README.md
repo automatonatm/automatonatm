@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Yanum
 ======================================================================================================================================
 
-Senior Software Engineer
+Full Stack Software Engineer
 ------------------------
 
 Experienced CTO and Full-stack Software Engineer with a track record of successfully launching innovative solutions across industries. Skilled in React Js, Redux, Next Js, Typescript, Firebase, PosgreSQL, SQL, MongoDB Solidity, Express Js, NestJs, CI/CD, Redis, AWS, Google Cloud, and other blockchain-related technologies. Led the development of MyCoPilot, a cutting-edge ride-sharing app, revolutionizing transportation in Nigeria. Pioneered GRYND, an agritech platform empowering farmers and non-farmers in Africa. Worked with BITFXT(Boundless), a secure mobile banking app enabling crypto-fiat transactions globally. Spearheaded NiMeDix, a transformative blockchain-powered healthcare ecosystem. Passionate about technology and collaborative in approach. Delivered impactful projects, transforming industries and empowering individuals in Nigeria and Africa. A results-oriented professional with a keen eye for user-friendly solutions and a drive to create positive change through technology.
